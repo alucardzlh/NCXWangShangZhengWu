@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/tt_menu_" android:state_pressed="true"/>
+    <item android:drawable="@drawable/tt_menu" android:state_pressed="false"/>
+
+</selector>
+<!-- From: file:/F:/Studio_ZLH/NCXWangShangZhengWu/nCXWangShangZhengWu/src/main/res/drawable/bg_button_zwfw_tt_menu.xml -->

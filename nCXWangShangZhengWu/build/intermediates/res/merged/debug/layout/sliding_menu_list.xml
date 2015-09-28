@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@android:id/list"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:padding="@dimen/height_1_100"
+        android:layout_weight="1"
+        android:background="@drawable/zwfw_bg"
+        android:cacheColorHint="@android:color/transparent"
+        android:divider="#00000000"
+        android:dividerHeight="@dimen/height_2_100"
+        android:listSelector="@color/blue"
+        android:scrollbars="none" />
+<!-- From: file:/F:/Studio_ZLH/NCXWangShangZhengWu/nCXWangShangZhengWu/src/main/res/layout/sliding_menu_list.xml -->

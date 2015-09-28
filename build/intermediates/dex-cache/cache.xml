@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Studio_ZLH\NCXWangShangZhengWu\nCXWangShangZhengWu\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="F:\Studio_ZLH\NCXWangShangZhengWu\nCXWangShangZhengWu\build\intermediates\pre-dexed\debug\classes-fdc8b5a0d6a651f1c1bac32ab14a56c596b766be.jar" />
+    </item>
+    <item
+        jar="F:\Studio_ZLH\NCXWangShangZhengWu\nCXWangShangZhengWu\libs\androidannotations-api-2.7.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="064169e7aacaaa76f5a0ca5eea66e2fc02737a17">
+        <dex dex="F:\Studio_ZLH\NCXWangShangZhengWu\nCXWangShangZhengWu\build\intermediates\pre-dexed\debug\androidannotations-api-2.7.1-5cc1249f7c497e711691ddf5291ba2c54583a54c.jar" />
+    </item>
+    <item
+        jar="E:\ADT\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="F:\Studio_ZLH\NCXWangShangZhengWu\nCXWangShangZhengWu\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-ad981c32926d01d224a4a018f87ec59598b35ff8.jar" />
+    </item>
+    <item
+        jar="F:\Studio_ZLH\NCXWangShangZhengWu\nCXWangShangZhengWu\libs\umeng-update-v2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7bfd85d65a43fcf2cd343f11c13ad29bc3965a1f">
+        <dex dex="F:\Studio_ZLH\NCXWangShangZhengWu\nCXWangShangZhengWu\build\intermediates\pre-dexed\debug\umeng-update-v2.5.0-c6d239acce4e2187e10c3aa0648e7206c51a1a96.jar" />
+    </item>
+    <item
+        jar="F:\Studio_ZLH\NCXWangShangZhengWu\nCXWangShangZhengWu\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="F:\Studio_ZLH\NCXWangShangZhengWu\nCXWangShangZhengWu\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0-52b1f4fa1cd6cba8c99d4e2689ad115a8dccef66.jar" />
+    </item>
+    <item
+        jar="F:\Studio_ZLH\NCXWangShangZhengWu\nCXWangShangZhengWu\build\intermediates\exploded-aar\NCXWangShangZhengWu\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a8b57fecadbf1b8d956835ff3a6ce76c8f255db3">
+        <dex dex="F:\Studio_ZLH\NCXWangShangZhengWu\nCXWangShangZhengWu\build\intermediates\pre-dexed\debug\classes-54d257cbd9a14400e3231d0ae86aea4c0a14f9ce.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alucard\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="F:\Studio_ZLH\NCXWangShangZhengWu\nCXWangShangZhengWu\build\intermediates\pre-dexed\debug\gson-2.2.4-71489416daa7dc15e3ab1a6cb53ec0ee47fd748c.jar" />
+    </item>
+    <item
+        jar="F:\Studio_ZLH\NCXWangShangZhengWu\nCXWangShangZhengWu\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="F:\Studio_ZLH\NCXWangShangZhengWu\nCXWangShangZhengWu\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-cbb0e249f0008366827f28b9187e1c70343a6414.jar" />
+    </item>
+    <item
+        jar="F:\Studio_ZLH\NCXWangShangZhengWu\nCXWangShangZhengWu\libs\ksoap2-android-assembly-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f8ddd5d69d8cdc994cde9af278ff79b06365eee3">
+        <dex dex="F:\Studio_ZLH\NCXWangShangZhengWu\nCXWangShangZhengWu\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-3.0.0-41249d7c5348e2f30f828b2d247fb89f75bda0dd.jar" />
+    </item>
+    <item
+        jar="F:\Studio_ZLH\NCXWangShangZhengWu\nCXWangShangZhengWu\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="F:\Studio_ZLH\NCXWangShangZhengWu\nCXWangShangZhengWu\build\intermediates\pre-dexed\debug\classes-7ea6e3a91632b3bd46ea117c70ea10a419b5ace3.jar" />
+    </item>
+
+</items>
