@@ -32,6 +32,7 @@ import android.app.AlertDialog;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
+import android.view.KeyEvent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.Window;
@@ -938,6 +939,15 @@ public class ZWFW_Zxsb_Activity extends BaseActivity {
 			}
 		}
 	};
+
+	@Override
+	public boolean onKeyDown(int keyCode, KeyEvent event) {
+		if (keyCode == KeyEvent.KEYCODE_BACK) {
+			finish();
+
+		}
+		return false;
+	}
 
 	/*
 	 * private BaseDetail_ManagerService baseDetail_ManagerService = new
